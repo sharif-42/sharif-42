@@ -18,13 +18,13 @@ I am a Full Stack Python developer with a huge love for Python, Golang, Django, 
 I love to play outdoor games likes Cricket/Football and listen to music.
 
 
-- 🔭 I’m currently working on Python, Django, DRF etc
-- 🌱 I’m currently learning many things and try to improve myself
-- 👯 I’m currently open for work and employment opportunities (remote and relocation)
+- 🔭 I’m currently working on Python, Django, DRF etc.
+- 🌱 I’m currently learning many things and try to improve myself.
+- 👯 I’m currently open for work and employment opportunities (remote and relocation).
 - 💬 Ask me about Python, Django, DRF, Docker, Golang, Web Development and so on.
 - 📫 I am just one mail away - [ sharifulcsehstu@gmail.com ]
 - 😄 Pronouns: He, Fat & Happy 😄
-- ⚡ Fun fact: I love to cook, I love to sing, I love to travel on my motorcycle.
+- ⚡ Fun fact: I love to sing, I love to travel on my motorcycle.
 
 ### Numbers
 
