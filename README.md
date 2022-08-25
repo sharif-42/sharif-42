@@ -24,8 +24,8 @@ I love to play outdoor games likes Cricket/Football and listen to music.
 - 👯 I’m currently open for work and employment opportunities (remote and relocation).
 - 💬 Ask me about Python, Django, DRF, Docker, Golang, Web Development and so on.
 - 📫 I am just one mail away - [ sharifulcsehstu@gmail.com ]
-- 😄 Pronouns: He, Fat & Happy 😄
-- ⚡ Fun fact: I love to sing, I love to travel on my motorcycle.
+- 😄 Pronouns: Funny & Happy 😄
+- ⚡ Fun fact: I love to sing, I love to travel.
 
 ### Numbers
 
