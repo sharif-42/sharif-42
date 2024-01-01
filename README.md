@@ -14,18 +14,13 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white)
 
-I am a Full Stack Python developer with a huge love for Python, Golang, Django, DRF, Flask, Everything API, RDBMS, System Architecture. Currently, **I'm open to work and employment opportunities**.
-
-I love to play outdoor games likes Cricket/Football and listen to music.
-
+I am a Full Stack Python developer with a huge love for Python, Golang, Django, DRF, Flask, RDBMS, System Architecture.
 
 - 🔭 I’m currently working on Python, Django, DRF etc.
 - 🌱 I’m currently learning many things and try to improve myself.
-- 👯 I’m currently open for work and employment opportunities (remote and relocation).
 - 💬 Ask me about Python, Django, DRF, Docker, Golang, Web Development and so on.
 - 📫 I am just one mail away - [ sharifulcsehstu@gmail.com ]
 - 😄 Pronouns: Funny & Happy 😄
-- ⚡ Fun fact: I love to sing, I love to travel.
 
 ### Numbers
 
