@@ -1,33 +1,46 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1 align="center"> Hi there 👋 Nice to see you.</h1> 
 
-![ProfileView](https://komarev.com/ghpvc/?username=sharif-42&label=PROFILE+VIEWS)
+<p> I am a full stack <b>Python</b> developer with a huge love for Python, Golang, Django, DRF. </p>
+<p> Hope to get better and better each day. Feel free to reach me always. Looking forward to exchange knowledge.</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=html5&logoColor=white)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=html5&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=style=flat-square&logo=postgresql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white)
+<div>
+  <a href="https://wakatime.com/@018e864b-c555-4395-be78-3f9a65937485"><img src="https://wakatime.com/badge/user/018e864b-c555-4395-be78-3f9a65937485.svg" alt="Total time coded since Mar 28 2024" /></a>
+</div>
 
-I am a Full Stack Python developer with a huge love for Python, Golang, Django, DRF, Flask, RDBMS, System Architecture.
-
-- 🔭 I’m currently working on Python, Django, DRF etc.
-- 🌱 I’m currently learning many things and try to improve myself.
+- 🔭 I’m currently working on Python, Django, DRF, Docker etc.
+- 🌱 I’m currently learning DevOps, System Design, System Architecture ect. and try to improve myself day by day.
 - 💬 Ask me about Python, Django, DRF, Docker, Golang, Web Development and so on.
 - 📫 I am just one mail away - [ sharifulcsehstu@gmail.com ]
-- 😄 Pronouns: Funny & Happy 😄
+
+<div >
+  <div style="display: inline_block"><br>
+  <h3>Actively working with</h3>
+    <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    <img alt="go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+    <img alt="django" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+    <img alt="drf" src="https://img.shields.io/badge/DRF-092E20?style=flat-square&logo=rest&logoColor=white" />
+    <img alt="docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" />
+    <img alt="elastic" src="https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elastic&logoColor=white" />
+    <img alt="postgre" src="https://img.shields.io/badge/PostgreSQL-316192?style=style=flat-square&logo=postgresql&logoColor=white" />
+    <img alt="redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white" />
+  </div>
+</div>
+
+### Reach out to me
+<div style="display: inline_block">
+  <div>
+<!--     <a href="https://twitter.com/_michellemello" target="_blank"> <img height="30" src="https://img.shields.io/badge/Twitter-%23333?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> -->
+    <a href="https://www.linkedin.com/in/shariful-islam-sharif-23a168175/" target="_blank"> <img height="30" src="https://img.shields.io/badge/LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<!--     <a href = "https://dev.to/_michellemello"><img height="30" src="https://img.shields.io/badge/-Dev.to-%23333?style=for-the-badge&logo=devdotto&logoColor=white" target="_blank"></a>  -->
+    <a href = "mailto:sharifulcsehstu@gmail.com"><img height="30" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href = "https://github.com/sharif-42"><img height="30" src="https://img.shields.io/badge/-github-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
+    <a href = "https://medium.com/@sharif-42"><img height="30" src="https://img.shields.io/badge/-medium-%23333?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a> 
+  </div>
+</div>
 
 ### Numbers
-
-![sharif-42's Stats](https://github-readme-stats.vercel.app/api?username=sharif-42&theme=darcula&show_icons=true&hide_border=true&count_private=true)
-![sharif-42's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sharif-42&theme=darcula&hide_border=true)
-![sharif-42's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharif-42&theme=darcula&show_icons=true&hide_border=true&layout=compact)
-
-### Where to find me
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-shariful-islam-23a168175/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/sharif042.csehstu/)
+<div align="center" style="display: inline_block">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=sharif-42&show_icons=true&theme=radical">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharif-42&layout=donut&theme=radical">
+  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=sharif-42&layout=donut&theme=radical">
+</div>
