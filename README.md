@@ -1,16 +1,30 @@
 <h1 align="center"> Hi there 👋 Nice to see you.</h1> 
 
-<p> I am a full stack <b>Python</b> developer with a huge love for Python, Golang, Django, DRF. </p>
-<p> Hope to get better and better each day. Feel free to reach me always. Looking forward to exchange knowledge.</p>
+Software Engineer with 6+ years of professional experience building secure, scalable, and high-performance applications for European B2B and B2C enterprise clients. I specialize in designing and developing microservices, REST APIs, and full-stack systems using Python and modern cloud-native technologies 
 
-<div>
-  <a href="https://wakatime.com/@018e864b-c555-4395-be78-3f9a65937485"><img src="https://wakatime.com/badge/user/018e864b-c555-4395-be78-3f9a65937485.svg" alt="Total time coded since Mar 28 2024" /></a>
-</div>
+Currently working at Binate Solutions Ltd, where I contribute across the full software development lifecycle—architecture, implementation, optimization, deployment, and monitoring. I have played a key role in developing large-scale, multi-tenant platforms, engineering core modules such as customer onboarding, order processing, inventory management, and payments, significantly improving operational efficiency and system reliability.
 
-- 🔭 I’m currently working on Python, Django, DRF, Docker etc.
-- 🌱 I’m currently learning DevOps, System Design, System Architecture ect. and try to improve myself day by day.
-- 💬 Ask me about Python, Django, DRF, Docker, Golang, Web Development and so on.
-- 📫 I am just one mail away - [ sharifulcsehstu@gmail.com ]
+My technical strengths include Python (Django, DRF, FastAPI, Flask), Docker & Kubernetes, PostgreSQL, Redis, Elasticsearch, and cloud platforms like AWS and GCP. I have hands-on experience integrating third-party services (payments, SSO, messaging), implementing monitoring and observability, and following best practices such as SOLID principles, clean architecture, and TDD.
+
+Beyond backend engineering, I have experience with OCR, real-time systems, and applied ML/AI, and I enjoy mentoring junior developers and collaborating closely with product, QA, and DevOps teams. I’m proactive, self-motivated, and passionate about writing clean, maintainable code that delivers real business value.
+
+📍 Open to challenging opportunities where I can contribute to impactful products and continue growing as a software engineer.
+
+## Skills
+
+**Programming Languages**: Python, JavaScript, C/C++.
+
+**Framework and Libraries**: Python/Django, Django Rest Framework, FastAPI, Flask, HTMX.
+
+**Cloud & DevOps**: Docker, Kubernetes, AWS, GCP, CI/CD, Git, Linux Server Management. 
+
+**Architecture & System Design**: Miscroservices, Design Patterns, SOLID, TDD, Oauth, JWT.   
+
+**Database & Storage**: PostgreSQL, Redis, Elasticsearch. 
+
+**ML & AI libraries**: Numpy, Pandas, Matplotlib, Scikit-learn, OpenCV, OpenAI API, Transformer(Hugging face), MLOps.
+
+**Image Processing Libraries**: OpenCV, Pillow.
 
 <div >
   <div style="display: inline_block"><br>
