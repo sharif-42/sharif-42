@@ -4,7 +4,7 @@ Software Engineer with 6+ years of professional experience building secure, scal
 
 Currently working at Binate Solutions Ltd, where I contribute across the full software development lifecycle—architecture, implementation, optimization, deployment, and monitoring. I have played a key role in developing large-scale, multi-tenant platforms, engineering core modules such as customer onboarding, order processing, inventory management, and payments, significantly improving operational efficiency and system reliability.
 
-My technical strengths include Python (Django, DRF, FastAPI, Flask), Docker & Kubernetes, PostgreSQL, Redis, Elasticsearch, and cloud platforms like AWS and GCP. I have hands-on experience integrating third-party services (payments, SSO, messaging), implementing monitoring and observability, and following best practices such as SOLID principles, clean architecture, and TDD.
+My technical strengths include Python (Django, DRF, FastAPI, Flask), GoLang, Docker & Kubernetes, PostgreSQL, Redis, Elasticsearch, and cloud platforms like AWS and GCP. I have hands-on experience integrating third-party services (payments, SSO, messaging), implementing monitoring and observability, and following best practices such as SOLID principles, clean architecture, and TDD.
 
 Beyond backend engineering, I have experience with OCR, real-time systems, and applied ML/AI, and I enjoy mentoring junior developers and collaborating closely with product, QA, and DevOps teams. I’m proactive, self-motivated, and passionate about writing clean, maintainable code that delivers real business value.
 
@@ -12,9 +12,9 @@ Beyond backend engineering, I have experience with OCR, real-time systems, and a
 
 ## Skills
 
-**Programming Languages**: Python, JavaScript, C/C++.
+**Programming Languages**: Python, Golang, C/C++.
 
-**Framework and Libraries**: Python/Django, Django Rest Framework, FastAPI, Flask, HTMX.
+**Framework and Libraries**: Python/Django, Django Rest Framework, FastAPI, Flask, Gin, HTMX.
 
 **Cloud & DevOps**: Docker, Kubernetes, AWS, GCP, CI/CD, Git, Linux Server Management. 
 
