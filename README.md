@@ -1,12 +1,14 @@
 <h1 align="center"> Hi there 👋 Nice to see you.</h1> 
 
-Software Engineer with 6+ years of professional experience building secure, scalable, and high-performance applications for European B2B and B2C enterprise clients. I specialize in designing and developing microservices, REST APIs, and full-stack systems using Python and modern cloud-native technologies 
+Senior Backend Software Engineer with 7+ years of professional experience specializing in Python, scalable backend systems, APIs, and enterprise software development. Strong background in building reliable, high-performance applications across fintech, eCommerce, ERP, SaaS, and AI-driven products.
 
-Currently working at Binate Solutions Ltd, where I contribute across the full software development lifecycle—architecture, implementation, optimization, deployment, and monitoring. I have played a key role in developing large-scale, multi-tenant platforms, engineering core modules such as customer onboarding, order processing, inventory management, and payments, significantly improving operational efficiency and system reliability.
+Currently working as a Senior Python Developer at Validata Group, where I am helping build an AI-powered financial reconciliation platform that automates transaction matching across complex banking datasets. My work involves scalable Python services, machine learning models, and intelligent matching systems to improve operational efficiency.
 
-My technical strengths include Python (Django, DRF, FastAPI, Flask), GoLang, Docker & Kubernetes, PostgreSQL, Redis, Elasticsearch, and cloud platforms like AWS and GCP. I have hands-on experience integrating third-party services (payments, SSO, messaging), implementing monitoring and observability, and following best practices such as SOLID principles, clean architecture, and TDD.
+Previously spent nearly six years at Binate Solutions Ltd., progressing from Intern Programmer to Senior Software Engineer. Contributed to enterprise-grade platforms for European clients, developing modules such as onboarding, order processing, inventory management, and payment integrations. Also led backend optimization initiatives that improved system performance, reduced manual effort, and enhanced maintainability.
 
-Beyond backend engineering, I have experience with OCR, real-time systems, and applied ML/AI, and I enjoy mentoring junior developers and collaborating closely with product, QA, and DevOps teams. I’m proactive, self-motivated, and passionate about writing clean, maintainable code that delivers real business value.
+Hands-on experience with Python (Django, FastAPI, Flask), Golang, PostgreSQL, MySQL, Elasticsearch, Docker, AWS, DigitalOcean, and modern Git-based workflows. Familiar with AI-assisted development, cloud deployment, and scalable system design.
+
+Passionate about backend architecture, distributed systems, performance optimization, and building practical technology solutions that solve real business challenges.
 
 📍 Open to challenging opportunities where I can contribute to impactful products and continue growing as a software engineer.
 
