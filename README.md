@@ -1,32 +1,37 @@
-<h1 align="center"> Hi there 👋 Nice to see you.</h1> 
+<h1> Hi, I'm Shariful 👋.</h1> 
 
-Senior Backend Software Engineer with 7+ years of professional experience specializing in Python, scalable backend systems, APIs, and enterprise software development. Strong background in building reliable, high-performance applications across fintech, eCommerce, ERP, SaaS, and AI-driven products.
+Backend-focused Software Engineer with 7+ years of experience building scalable web applications, APIs, AI-powered services, and data-intensive systems using Python, Django, FastAPI, and Golang.
 
-Currently working as a Senior Python Developer at Validata Group, where I am helping build an AI-powered financial reconciliation platform that automates transaction matching across complex banking datasets. My work involves scalable Python services, machine learning models, and intelligent matching systems to improve operational efficiency.
+I enjoy solving complex engineering problems, modernizing legacy systems, designing maintainable architectures, and building software that performs reliably in production. My experience spans multi-tenant SaaS platforms, e-commerce systems, fintech products, search infrastructure, payment integrations, machine learning pipelines, and large-scale application migrations.
 
-Previously spent nearly six years at Binate Solutions Ltd., progressing from Intern Programmer to Senior Software Engineer. Contributed to enterprise-grade platforms for European clients, developing modules such as onboarding, order processing, inventory management, and payment integrations. Also led backend optimization initiatives that improved system performance, reduced manual effort, and enhanced maintainability.
+## My core areas of expertise 
 
-Hands-on experience with Python (Django, FastAPI, Flask), Golang, PostgreSQL, MySQL, Elasticsearch, Docker, AWS, DigitalOcean, and modern Git-based workflows. Familiar with AI-assisted development, cloud deployment, and scalable system design.
+**Backend Engineering**                                       : Python, Django, FastAPI, Flask, DRF, Golang, GIN, JavaScript, HTMX
 
-Passionate about backend architecture, distributed systems, performance optimization, and building practical technology solutions that solve real business challenges.
+**System Design & Architecture**                              : Microservices, Distributed Systems, REST APIs
 
-📍 Open to challenging opportunities where I can contribute to impactful products and continue growing as a software engineer.
+**Data & Search**                                             : PostgreSQL, MySQL, Redis, Elasticsearch
 
-## Skills
+**Cloud & DevOps**                                            : Docker, Kubernetes, CI/CD, Linux, AWS
 
-**Programming Languages**: Python, Golang, C/C++.
+**AI & Data Processing**                                      : LLM Integrations, Machine Learning Pipelines, ETL Workflows
 
-**Framework and Libraries**: Python/Django, Django Rest Framework, FastAPI, Flask, Gin, HTMX.
+**Performance Engineering**                                   : Database Optimization, Caching Strategies, Scalability Improvements
 
-**Cloud & DevOps**: Docker, Kubernetes, AWS, GCP, CI/CD, Git, Linux Server Management. 
+## Highlights
 
-**Architecture & System Design**: Miscroservices, Design Patterns, SOLID, TDD, Oauth, JWT.   
+* Architected and developed a multi-tenant B2B/B2C SaaS e-commerce platform serving European customers with tenant-specific workflows and integrations.
+* Led the development of a payment platform supporting iDEAL instant payments and recurring invoice-based billing for EU customers.
+* Spearheaded the adoption of Elasticsearch as the primary search infrastructure, significantly improving search performance and relevance.
+* Led the end-to-end migration of a business-critical platform from Django 1.11 to Django 4.2, improving security, maintainability, and long-term scalability.
+* Improved application response times by 40% through query optimization, ORM tuning, caching strategies, and performance-focused refactoring.
+* Implemented automated testing, GitHub Actions, and CI/CD pipelines to improve deployment reliability and engineering productivity.
+* Integrated multiple third-party systems using REST, SOAP, and XML-based APIs across diverse client ecosystems.
+* Architected and developed an AI-powered financial reconciliation microservice using FastAPI, reducing manual reconciliation effort by 70%.
+* Contributed to a distributed recommendation platform using FastAPI, machine learning models, and scalable data-processing pipelines.
+* Built production-grade ETL workflows with Pandas, NumPy, and Scikit-learn for large-scale financial data processing and machine learning workloads.
+* Mentored junior engineers and led architectural refactoring initiatives to reduce technical debt and improve maintainability.
 
-**Database & Storage**: PostgreSQL, Redis, Elasticsearch. 
-
-**ML & AI libraries**: Numpy, Pandas, Matplotlib, Scikit-learn, OpenCV, OpenAI API, Transformer(Hugging face), MLOps.
-
-**Image Processing Libraries**: OpenCV, Pillow.
 
 <div >
   <div style="display: inline_block"><br>
